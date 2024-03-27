@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-newone/static/css/main.adb82961.css",
-    "main.js": "/react-newone/static/js/main.7a5b3a25.js",
+    "main.js": "/react-newone/static/js/main.b7da24ca.js",
     "index.html": "/react-newone/index.html",
     "main.adb82961.css.map": "/react-newone/static/css/main.adb82961.css.map",
-    "main.7a5b3a25.js.map": "/react-newone/static/js/main.7a5b3a25.js.map"
+    "main.b7da24ca.js.map": "/react-newone/static/js/main.b7da24ca.js.map"
   },
   "entrypoints": [
     "static/css/main.adb82961.css",
-    "static/js/main.7a5b3a25.js"
+    "static/js/main.b7da24ca.js"
   ]
 }
