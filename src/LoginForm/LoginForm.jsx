@@ -26,12 +26,14 @@ const LoginForm = () => {
                 {/* Your email and password input fields */}
             </form>
             <GoogleLogin
-                clientId="895318556149-1ukshl6uol3qf8qse2cqo4745otcbc4f.apps.googleusercontent.com"
-                buttonText="Sign in with Google"
-                onSuccess={responseGoogle}
-                onFailure={responseGoogle}
-                cookiePolicy={'single_host_origin'}
-            />
+    clientId="895318556149-1ukshl6uol3qf8qse2cqo4745otcbc4f.apps.googleusercontent.com"
+    buttonText="Sign in with Google"
+    onSuccess={responseGoogle}
+    onFailure={responseGoogle}
+    cookiePolicy={'single_host_origin'}
+    redirectUri="https://www.youtube.com/" // Specify your redirect URI here
+/>
+
         </div>
     );
 };
