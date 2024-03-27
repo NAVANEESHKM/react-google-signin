@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/NAVANEESHKM/react-newone/static/css/main.adb82961.css",
-    "main.js": "/NAVANEESHKM/react-newone/static/js/main.99e87300.js",
-    "index.html": "/NAVANEESHKM/react-newone/index.html",
-    "main.adb82961.css.map": "/NAVANEESHKM/react-newone/static/css/main.adb82961.css.map",
-    "main.99e87300.js.map": "/NAVANEESHKM/react-newone/static/js/main.99e87300.js.map"
+    "main.css": "/react-newone/static/css/main.adb82961.css",
+    "main.js": "/react-newone/static/js/main.99e87300.js",
+    "index.html": "/react-newone/index.html",
+    "main.adb82961.css.map": "/react-newone/static/css/main.adb82961.css.map",
+    "main.99e87300.js.map": "/react-newone/static/js/main.99e87300.js.map"
   },
   "entrypoints": [
     "static/css/main.adb82961.css",
