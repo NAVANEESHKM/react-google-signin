@@ -7,13 +7,16 @@ const LoginForm = () => {
 
     const handleFormSubmit = (event) => {
         event.preventDefault();
-
         // Your existing form submission logic
     };
 
     const responseGoogle = (response) => {
         console.log(response);
         // Handle Google Sign-In response here
+        if (response.profileObj) {
+            // Log user details to console
+            console.log('User Details:', response.profileObj);
+        }
     };
 
     return (
